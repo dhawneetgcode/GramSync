@@ -13,9 +13,9 @@ export default {
         charcoal: '#141413',
         mutedink: '#57534E',
         slateteal: {
-          DEFAULT: '#0F4C5C',
-          hover: '#0A3743',
-          light: '#E6EFF1'
+          DEFAULT: '#0F172A',
+          hover: '#1E293B',
+          light: '#F1F5F9'
         },
         status: {
           localBg: '#F3F4F6',
