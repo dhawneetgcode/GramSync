@@ -114,7 +114,7 @@ ${rxs.map(r => `• ${r.medicineName} (${r.dosage}) - ${r.frequency} [${r.timing
 ${patient.data.clinicalNotes}
 
 *Last Synchronized:* ${new Date(patient.lastModifiedAt).toLocaleString()}
-*GramSync v2.4 (HT-03 Offline Healthcare Engine)*
+*GramSync v2.4 (Offline Field Healthcare Engine)*
     `.trim();
 
     navigator.clipboard.writeText(text);

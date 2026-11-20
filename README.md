@@ -1,6 +1,6 @@
 # GramSync — Offline-First Field Clinical Sync Engine
 
-**Track:** JU TECHFEST 2026 | **Problem Statement:** HT-03: Healthcare Without Internet  
+**Domain:** Offline-First Healthcare & Distributed Clinical Sync  
 **Version:** v2.4.0 (Industrial Clinical Sync Instrument)
 
 [![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -17,7 +17,7 @@ Frontline healthcare workers (ASHA workers and Primary Health Centre clinicians 
 
 ---
 
-## 2. Key Capabilities & Rubric Alignment
+## 2. Key Capabilities & Technical Highlights
 
 1. **Full Offline Patient Record CRUD:**
    - Create, search, view, and update patient records while completely disconnected.
@@ -80,7 +80,7 @@ Open **`http://localhost:8080/flow`** in your browser.
 
 ---
 
-## 4. 60-Second Judge Demonstration Guide
+## 4. 60-Second Demonstration & Live Simulation Guide
 
 1. Open `http://localhost:5173/`.
 2. Notice the 3-column **Dual-Node Sync Lab** (Node A, Central Registry, Node B).
@@ -113,4 +113,4 @@ Open **`http://localhost:8080/flow`** in your browser.
 
 ## 7. License
 
-MIT License. Designed and engineered for **JU TECHFEST 2026 (Problem Statement HT-03)**.
+MIT License.

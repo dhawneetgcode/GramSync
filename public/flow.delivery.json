@@ -4,8 +4,8 @@
   "status": "current",
   "command": "deliver",
   "type": "workflow",
-  "input": "D:\\Code things\\Hackathons\\JECRC HACKATHON\\.archify\\workflow-gramsync-flow\\candidate.json",
-  "output": "D:\\Code things\\Hackathons\\JECRC HACKATHON\\public\\flow.html",
+  "input": ".archify\\workflow-gramsync-flow\\candidate.json",
+  "output": "public\\flow.html",
   "specification": {
     "sha256": "cb95b27350d241874562327e800aa434b4eef5a1b943c2f7b2899fc9af347f8b",
     "bytes": 6215

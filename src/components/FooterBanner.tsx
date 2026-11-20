@@ -22,7 +22,7 @@ export const FooterBanner: React.FC = () => {
           <Database className="w-2.5 h-2.5 text-slateteal" />
           <span>VAULT: AES-GCM (256-BIT)</span>
         </span>
-        <span className="hidden md:inline">JU TECHFEST 2026 // HT-03</span>
+        <span className="hidden md:inline">OFFLINE HEALTHCARE ENGINE // v2.4</span>
       </div>
     </footer>
   );

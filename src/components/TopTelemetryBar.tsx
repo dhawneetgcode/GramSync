@@ -160,7 +160,7 @@ export const TopTelemetryBar: React.FC<Props> = ({
           <span>{lang === 'en' ? 'हिंदी' : 'EN'}</span>
         </button>
 
-        {/* 1-Click Judge Macro */}
+        {/* 1-Click Simulation Macro */}
         <button
           onClick={handleStageConflict}
           disabled={isStaging}

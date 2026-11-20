@@ -1,5 +1,5 @@
 # GramSync // Technical Tool & Architecture Specification (`tool.md`)
-**Track:** JU TECHFEST 2026 | **Problem Statement:** HT-03 (Healthcare Without Internet)  
+**Category:** Offline-First Healthcare & Distributed Clinical Sync  
 **System Version:** v2.4.0 (Industrial Clinical Sync Engine)  
 **Live Application:** `http://localhost:5173/`  
 **Flowchart Telemetry:** `http://localhost:8080/flow` (and `/flow`)
@@ -28,7 +28,7 @@
 ## 3. Repository Directory Structure
 
 ```
-d:\Code things\Hackathons\JECRC HACKATHON\
+GramSync\
 ├── .agents/skills/archify/      # Native Archify diagram compiler & schemas
 ├── src/
 │   ├── types/
@@ -54,7 +54,7 @@ d:\Code things\Hackathons\JECRC HACKATHON\
 ├── flowServer.cjs              # Standalone HTTP service hosting localhost:8080/flow
 ├── Architecture.md             # Schema definitions and data contracts
 ├── Design.md                   # Anti-AI Swiss Utility design manifesto
-├── PRD.md                      # Problem requirements & rubric alignment
+├── PRD.md                      # Problem requirements & technical specification
 ├── Rules.md                    # Engineering & visual execution rules
 ├── Phases.md                   # Implementation phase roadmap
 ├── Memory.md                   # Chronological project progress & verification log
@@ -137,7 +137,7 @@ An interactive workflow diagram was compiled using the **Archify v3.2** native c
 
 ---
 
-## 8. Step-by-Step Judge Demonstration Script
+## 8. Step-by-Step Demonstration Script
 
 To verify all requirements in under 60 seconds:
 1. **Launch App:** Open `http://localhost:5173/`.

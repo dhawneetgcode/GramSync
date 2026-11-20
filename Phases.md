@@ -12,7 +12,7 @@
 - Accurately detect concurrent edits (`baseRevision < server.revision`), flag `CONFLICT`, and store the 3-way payload (`baseData`, `localData`, `remoteData`).
 
 ## Phase 3: Utilitarian Clinical Workspace & Dual-Node Sync Lab UI
-- Build the Top Telemetry Bar with Role/PIN switcher, View Mode tabs, and a 1-click **"Simulate Live Conflict"** macro button for instant judge demonstrations.
+- Build the Top Telemetry Bar with Role/PIN switcher, View Mode tabs, and a 1-click **"Simulate Live Conflict"** macro button for instant live demonstrations.
 - Build the **Dual-Node Sync Lab** view:
   - Left Column: **Node A (ASHA Field Tablet)** with its own Online/Offline toggle, Outbox badge, and patient editor.
   - Center Spine: **Central PHC Cloud Registry** showing canonical server revisions (`v1`, `v2`, `v3`) and live sync packet logs.
